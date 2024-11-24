@@ -1,0 +1,3 @@
+Python
+pandas
+install sodapy in order to use Socrata to retrieve data
