@@ -1,5 +1,5 @@
 #   Extended Hospitalizations Exploratory Data Analysis
-<img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/patient-ward-hospital-delirium-1296x728-header-1024x575.jpg" width="1000" height="200">
+<img src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/patient-ward-hospital-delirium-1296x728-header-1024x575.jpg" width="800" height="200">
 
 ## Rationale
 As a current clinician in a rehabilitation hospital, I have seen and treated many patients who have experienced acute illnesses that require prolonged hospitalizations. Due to the severity of their conditions, most of these patients suffer from life-changing and life-long impairments. Frequently, these conditions are a result of chronic illnesses, however the cases I find most poignant are those that appeared to be healthy and independent previous to the illness. The aim of this analysis is to explore data from hospital stays, including primary diagnosis and demographic information to discover any underlying correlations of extended stays compared to ‘average’ stays. In addition, I am interested in the significant financial impact of these stays and any relevant findings related to charges vs costs. 
