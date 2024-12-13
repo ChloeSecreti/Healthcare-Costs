@@ -42,9 +42,9 @@ I used a Tableau Dashboard to visualize my data. The dashboard allows the user t
 
 Link to dashboard: https://public.tableau.com/app/profile/chloe.secreti/viz/ExtendedvsAverageHospitalization/Dashboard1
 
-<![Alt text](/Users/chloeburrell/Documents/Projects/Healthcare-Data-Analysis/ReadMe_Images/Extended_Hospializations_Dashboard.png)
+![Alt text](https://github.com/ChloeSecreti/Healthcare-Data-Analysis/blob/aaf05e73804aca0d07a783298a21c568ce341cc3/ReadMe_Images/Extended_Hospializations_Dashboard.png)
+![Alt text](https://github.com/ChloeSecreti/Healthcare-Data-Analysis/blob/aaf05e73804aca0d07a783298a21c568ce341cc3/ReadMe_Images/Average_Hospitalizations_Dashboard.png)
 
-![Alt text](/Users/chloeburrell/Documents/Projects/Healthcare-Data-Analysis/ReadMe_Images/Average_Hospitalizations_Dashboard.png)
 
 ## Interpretation 
 Regarding diagnoses, both sets show sepsis as most common diagnosis. Sepsis was particularly frequent in extended hospitalizations, accounting for the vast majority of diagnoses. COVID-19 also accounted for a high number of cases in both lengths of stay. The data suggests that chronic conditions such as COPD, Congestive Heart Failure, and Osteoarthritis are associated with shorter lengths of stays while acute illnesses such as Cerebral Infarction and Respiratory failure are associated with extended stays.  
